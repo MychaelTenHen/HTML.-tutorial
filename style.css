@@ -92,7 +92,7 @@ h2 {
     margin-bottom: 24px;
 }
 
-.scetion__description {
+.section__description {
 display: flex;
 justify-content: center;
 align-items: center;
@@ -211,7 +211,7 @@ footer{
     display: none;
  }
 
- .scetion__description {
+ .section__description {
     flex-direction: column;
  }
 
